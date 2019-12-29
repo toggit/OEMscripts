@@ -2,4 +2,4 @@
 .secret/
 
 #data
-data/
+data/*
